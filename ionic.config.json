@@ -1,0 +1,8 @@
+{
+  "name": "water-wheel",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "aeb8ab71"
+}
